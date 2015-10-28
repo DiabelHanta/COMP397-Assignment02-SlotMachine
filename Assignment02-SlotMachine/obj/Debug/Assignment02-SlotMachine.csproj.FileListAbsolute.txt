@@ -1,0 +1,6 @@
+c:\users\faim\documents\visual studio 2013\Projects\Assignment02-SlotMachine\Assignment02-SlotMachine\bin\COMP397-Lesson2.dll.config
+c:\users\faim\documents\visual studio 2013\Projects\Assignment02-SlotMachine\Assignment02-SlotMachine\bin\COMP397-Lesson2.dll
+c:\users\faim\documents\visual studio 2013\Projects\Assignment02-SlotMachine\Assignment02-SlotMachine\bin\COMP397-Lesson2.pdb
+c:\users\faim\documents\visual studio 2013\Projects\Assignment02-SlotMachine\Assignment02-SlotMachine\obj\Debug\Assignment02-SlotMachine.csprojResolveAssemblyReference.cache
+c:\users\faim\documents\visual studio 2013\Projects\Assignment02-SlotMachine\Assignment02-SlotMachine\obj\Debug\COMP397-Lesson2.dll
+c:\users\faim\documents\visual studio 2013\Projects\Assignment02-SlotMachine\Assignment02-SlotMachine\obj\Debug\COMP397-Lesson2.pdb
