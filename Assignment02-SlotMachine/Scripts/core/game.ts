@@ -1,23 +1,23 @@
-﻿/// <reference path="../config/config.ts" />
+﻿// <reference path="../config/config.ts" />
 
-/// <reference path="../typings/jquery/jquery.d.ts" />
-/// <reference path="../typings/stats/stats.d.ts" />
-/// <reference path="../typings/createjs-lib/createjs-lib.d.ts" />
-/// <reference path="../typings/easeljs/easeljs.d.ts" />
-/// <reference path="../typings/tweenjs/tweenjs.d.ts" />
-/// <reference path="../typings/soundjs/soundjs.d.ts" />
-/// <reference path="../typings/preloadjs/preloadjs.d.ts" />
+// <reference path="../typings/jquery/jquery.d.ts" />
+// <reference path="../typings/stats/stats.d.ts" />
+// <reference path="../typings/createjs-lib/createjs-lib.d.ts" />
+// <reference path="../typings/easeljs/easeljs.d.ts" />
+// <reference path="../typings/tweenjs/tweenjs.d.ts" />
+// <reference path="../typings/soundjs/soundjs.d.ts" />
+// <reference path="../typings/preloadjs/preloadjs.d.ts" />
 
-/// <reference path="../objects/gameobject.ts" />
-/// <reference path="../objects/spritebutton.ts" />
+// <reference path="../objects/gameobject.ts" />
+// <reference path="../objects/spritebutton.ts" />
 
-/// <reference path="../objects/label.ts" />
-/// <reference path="../objects/button.ts" />
-/// <reference path="../objects/scene.ts" />
+// <reference path="../objects/label.ts" />
+// <reference path="../objects/button.ts" />
+// <reference path="../objects/scene.ts" />
 
-/// <reference path="../states/over.ts" />
-/// <reference path="../states/game.ts" />
-/// <reference path="../states/menu.ts" />
+// <reference path="../states/over.ts" />
+// <reference path="../states/game.ts" />
+// <reference path="../states/menu.ts" />
 
 
 // GLOBAL GAME FRAMEWORK VARIABLES

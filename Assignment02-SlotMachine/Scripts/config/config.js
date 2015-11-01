@@ -1,6 +1,6 @@
 var config;
 (function (config) {
-    // State Constants
+    // States' Constants
     config.MENU_STATE = 0;
     config.PLAY_STATE = 1;
     config.OVER_STATE = 2;
